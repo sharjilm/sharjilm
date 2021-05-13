@@ -1,5 +1,5 @@
 # Hi, I'm Sharjil! #
-I'm going into my fourth year as a Software Engineering and Management student at McMaster University. Currently seeking for Fall 2021 internships/co-ops!
+I'm going into my fourth year as a Software Engineering and Management student at McMaster University. Currently seeking Fall 2021 internships/co-ops!
 
 ## Connect With Me! ##
 [![Website Badge](https://img.shields.io/badge/Website-3d8ddf?style=for-the-badge&logo=Safari&logoColor=white&link=https://sharjilm.github.io/)](https://sharjilm.github.io/)
